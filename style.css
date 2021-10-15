@@ -1,0 +1,58 @@
+*{ padding: 0;
+    margin: 0;
+    box-sizing: border-box   ;
+    
+
+}
+
+body
+{
+    background-color: rgb(175, 175, 209);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+/* header başlangıç  */
+header {
+    background-color:rgb(162, 212, 236);
+    height: 100px;
+}
+nav { 
+        margin-left: 0px;     
+    
+    
+}
+nav ul {
+    display: inline-flex ;
+    list-style: none;
+}nav ul li {
+    color: black;
+    width: 150px ;
+    margin: 15px  ;
+    padding: 15px;
+}
+/* header bitiş */
+
+/* section başlangıç */
+section
+{
+text-align: center;    
+}
+
+/* section bitiş */
+
+h2 {
+    color: darkblue;
+}
+h1 {
+    color: darkblue;
+}
+
+
+footer
+{
+    text-align: center;    
+
+}
+
+
